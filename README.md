@@ -16,3 +16,33 @@
 | 📦 Lightweight | No heavy dependencies |
 
 ---
+
+## 📦 Installation
+
+```bash
+npm install ai-css-runtime
+
+```
+
+## 🛠 Usage
+
+### 1️⃣ Import in your project
+
+```js
+
+import { StrictMode } from 'react'
+import { createRoot } from 'react-dom/client'
+import './index.css'
+import App from './App.jsx'
+import "jkcss-ai-runtime";
+
+createRoot(document.getElementById('root')).render(
+  <StrictMode>
+    <App />
+  </StrictMode>,
+)
+
+
+```
+
+- import `jkcss-ai-runtime` on your `main.jsx` file
