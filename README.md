@@ -46,3 +46,14 @@ createRoot(document.getElementById('root')).render(
 ```
 
 - import `jkcss-ai-runtime` on your `main.jsx` file
+
+### 2️⃣ Use aiclass 
+
+```html
+
+<div aiclass="indigo-500 big padding box">
+  Hello World 🚀
+</div>
+
+```
+
