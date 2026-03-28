@@ -140,3 +140,47 @@ createRoot(document.getElementById('root')).render(
 
 ```
 
+## 👉 AI will generate:
+
+- 🔹 Custom colors 🎨
+- 🔹 Shadows & lighting 🌟
+- 🔹 Animations ⚡
+- 🔹 Layout & spacing 📐
+
+## ❤️ Early Support Matters
+
+- Since this is in Beta, your feedback helps shape the future 🙌
+
+- 👉 Try it
+- 👉 Break it
+- 👉 Suggest features
+
+> Let’s build something revolutionary together 🚀
+
+
+## ⚠️ Notes
+- 🧾 Later styles override earlier ones (CSS rule)
+- 🔤 Case-insensitive input
+- 🚫 No need to modify API (works with large datasets)
+
+## 🤝 Contributing
+
+Pull requests are welcome!
+Let’s build the future of styling together 💪
+
+## 📜 License
+
+MIT License
+
+## ❤️ Author
+
+Made with ❤️ Love by Jehan (BlackAlphaLabs)[https://www.blackalphalabs.com/] 🚀
+
+## ⭐ Support
+
+- If you like this project:
+
+- 👉 Give it a star ⭐
+- 👉 Share it 🔥
+- 👉 Build something crazy with it 😎
+
